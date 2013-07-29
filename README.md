@@ -18,7 +18,7 @@ Technical/Architecture
 The app will comprise the following components:
 
 * Web service using NancyFx
-* Fronmt end using Xamarin
+* Front end using Xamarin
 
 Ok, that shallot.
 

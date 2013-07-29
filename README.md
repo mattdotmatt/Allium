@@ -12,6 +12,14 @@ It will have the following features:
 * Make a payment
 * Profile management
 
+Technical/Architecture
+----------------------
+
+The app will comprise the following components:
+
+* Web service using NancyFx
+* Fronmt end using Xamarin
+
 Ok, that shallot.
 
 
